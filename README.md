@@ -5,6 +5,8 @@
 
 ## 1. Installation
 
+*If you already have installed Mongo and MongoDB Compass you can skip to Introduction Lab*
+
 ### 1.1. Installation Mongo
 
 Link: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
